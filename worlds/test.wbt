@@ -1,0 +1,48 @@
+#VRML_SIM R2023b utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/robots/gctronic/e-puck/protos/E-puck.proto"
+IMPORTABLE EXTERNPROTO "../protos/LegoWall.proto"
+IMPORTABLE EXTERNPROTO "../protos/LegoInterval.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/floors/protos/Floor.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.3003688463262824 0.09946445890286569 0.9486228848029011 2.5328674051129396
+  position 2.0824988484975604 -1.1414843729621817 1.4526728850204196
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+E-puck {
+  hidden position_0_0 1980.2312866206862
+  hidden position_0_1 2183.228848059046
+  hidden linearVelocity_0 0.05445322271771765 0.012760823150952921 6.507073062303731e-08
+  hidden angularVelocity_0 0.0023263895295075956 -0.00998477354012799 0.08684886156373745
+  hidden rotation_1 0 -1 0 5.255270448063121
+  hidden linearVelocity_1 0.05220443697520433 0.012233830365719497 -8.664235862103322e-09
+  hidden angularVelocity_1 -0.6092965101830154 2.5997723895922027 0.08859301236930858
+  hidden rotation_2 0 -1 0 3.3196388394501355
+  hidden linearVelocity_2 0.056602579334107804 0.013264782368955251 1.8729867878905692e-09
+  hidden angularVelocity_2 -0.6656077483506407 2.8404659572568285 0.08886559347543191
+  translation 0.593045231175506 -0.09594277466547262 -6.432339823788172e-05
+  rotation 0.0004979856072361369 -1.777977995695751e-05 0.9999998758470996 0.23174039113369144
+  controllerArgs [
+    ""
+  ]
+}
+Floor {
+  size 2.88 2.88
+  tileSize 0.18 0.18
+}
+LegoWall {
+  translation 0 0.025 0.21
+  rotation -0.577349935856137 0.577349935856137 0.5773509358560258 -2.094395307179586
+}
+LegoWall {
+  translation 0 -0.255 0.19
+  name "LEGO wall(1)"
+}

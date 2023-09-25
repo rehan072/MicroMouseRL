@@ -1,0 +1,2814 @@
+#VRML_SIM R2023b utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/robots/gctronic/e-puck/protos/E-puck.proto"
+IMPORTABLE EXTERNPROTO "../protos/LegoWall.proto"
+IMPORTABLE EXTERNPROTO "../protos/LegoInterval.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/floors/protos/Floor.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.5009092227317472 -0.4746087688596506 -0.7237654779718382 4.343793911086498
+  position 0.42458586611869226 -1.1592401583294212 4.392876585712591
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+E-puck {
+  hidden position_0_0 5043.172606681088
+  hidden position_0_1 6223.2637634252205
+  hidden linearVelocity_0 0.045516851294714354 -0.032733160814206165 -1.8350782069251096e-07
+  hidden angularVelocity_0 0.007848542866315316 0.010870787376307364 0.09645315225723217
+  hidden rotation_1 0 1 0 4.057990323059573
+  hidden linearVelocity_1 0.04353466307297843 -0.03130836746400872 -1.9732274925131323e-08
+  hidden angularVelocity_1 1.558441019446709 2.1670993111468584 0.09817835933478584
+  hidden rotation_2 0 1 0 2.9103093174299195
+  hidden linearVelocity_2 0.047606943424947985 -0.03423756232503678 -1.3169736101659237e-07
+  hidden angularVelocity_2 1.7187797659553414 2.389834871814485 0.09844845697567663
+  translation 1.9356883196795098 0.9468849060935798 -6.430343560951714e-05
+  rotation -0.00024101298876947935 -0.001353726198610202 -0.9999990546686124 0.6216053834351809
+  controllerArgs [
+    ""
+  ]
+}
+Floor {
+  size 2.88 2.88
+  tileSize 0.18 0.18
+}LegoInterval {
+	translation -1.432 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval1"
+}
+LegoWall {
+	translation -1.376 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall1"
+}
+LegoInterval {
+	translation -1.3199999999999998 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval2"
+}
+LegoWall {
+	translation -1.2639999999999998 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall2"
+}
+LegoInterval {
+	translation -1.2079999999999997 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval3"
+}
+LegoWall {
+	translation -1.1519999999999997 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall3"
+}
+LegoInterval {
+	translation -1.0959999999999996 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval4"
+}
+LegoWall {
+	translation -1.0399999999999996 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall4"
+}
+LegoInterval {
+	translation -0.9839999999999995 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval5"
+}
+LegoWall {
+	translation -0.9279999999999995 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall5"
+}
+LegoInterval {
+	translation -0.8719999999999994 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval6"
+}
+LegoWall {
+	translation -0.8159999999999994 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall6"
+}
+LegoInterval {
+	translation -0.7599999999999993 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval7"
+}
+LegoWall {
+	translation -0.7039999999999993 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall7"
+}
+LegoInterval {
+	translation -0.6479999999999992 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval8"
+}
+LegoWall {
+	translation -0.5919999999999992 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall8"
+}
+LegoInterval {
+	translation -0.5359999999999991 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval9"
+}
+LegoWall {
+	translation -0.47999999999999915 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall9"
+}
+LegoInterval {
+	translation -0.42399999999999916 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval10"
+}
+LegoWall {
+	translation -0.36799999999999916 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall10"
+}
+LegoInterval {
+	translation -0.31199999999999917 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval11"
+}
+LegoWall {
+	translation -0.2559999999999992 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall11"
+}
+LegoInterval {
+	translation -0.19999999999999918 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval12"
+}
+LegoWall {
+	translation -0.14399999999999918 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall12"
+}
+LegoInterval {
+	translation -0.08799999999999919 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval13"
+}
+LegoWall {
+	translation -0.03199999999999919 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall13"
+}
+LegoInterval {
+	translation 0.024000000000000812 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval14"
+}
+LegoWall {
+	translation 0.08000000000000082 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall14"
+}
+LegoInterval {
+	translation 0.13600000000000081 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval15"
+}
+LegoWall {
+	translation 0.1920000000000008 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall15"
+}
+LegoInterval {
+	translation 0.2480000000000008 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval16"
+}
+LegoWall {
+	translation 0.3040000000000008 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall16"
+}
+LegoInterval {
+	translation 0.3600000000000008 1.432 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval17"
+}
+LegoWall {
+	translation -1.432 1.376 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall17"
+}
+LegoWall {
+	translation 0.3600000000000008 1.376 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall18"
+}
+LegoInterval {
+	translation -1.432 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval18"
+}
+LegoInterval {
+	translation -1.3199999999999998 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval19"
+}
+LegoWall {
+	translation -1.2639999999999998 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall19"
+}
+LegoInterval {
+	translation -1.2079999999999997 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval20"
+}
+LegoWall {
+	translation -1.1519999999999997 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall20"
+}
+LegoInterval {
+	translation -1.0959999999999996 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval21"
+}
+LegoWall {
+	translation -1.0399999999999996 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall21"
+}
+LegoInterval {
+	translation -0.9839999999999995 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval22"
+}
+LegoWall {
+	translation -0.9279999999999995 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall22"
+}
+LegoInterval {
+	translation -0.8719999999999994 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval23"
+}
+LegoWall {
+	translation -0.8159999999999994 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall23"
+}
+LegoInterval {
+	translation -0.7599999999999993 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval24"
+}
+LegoWall {
+	translation -0.7039999999999993 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall24"
+}
+LegoInterval {
+	translation -0.6479999999999992 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval25"
+}
+LegoWall {
+	translation -0.5919999999999992 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall25"
+}
+LegoInterval {
+	translation -0.5359999999999991 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval26"
+}
+LegoWall {
+	translation -0.47999999999999915 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall26"
+}
+LegoInterval {
+	translation -0.42399999999999916 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval27"
+}
+LegoWall {
+	translation -0.36799999999999916 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall27"
+}
+LegoInterval {
+	translation -0.31199999999999917 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval28"
+}
+LegoWall {
+	translation -0.2559999999999992 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall28"
+}
+LegoInterval {
+	translation -0.19999999999999918 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval29"
+}
+LegoWall {
+	translation -0.14399999999999918 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall29"
+}
+LegoInterval {
+	translation -0.08799999999999919 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval30"
+}
+LegoInterval {
+	translation 0.024000000000000812 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval31"
+}
+LegoWall {
+	translation 0.08000000000000082 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall30"
+}
+LegoInterval {
+	translation 0.13600000000000081 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval32"
+}
+LegoInterval {
+	translation 0.2480000000000008 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval33"
+}
+LegoWall {
+	translation 0.3040000000000008 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall31"
+}
+LegoInterval {
+	translation 0.3600000000000008 1.3199999999999998 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval34"
+}
+LegoWall {
+	translation -1.432 1.2639999999999998 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall32"
+}
+LegoWall {
+	translation -1.2079999999999997 1.2639999999999998 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall33"
+}
+LegoWall {
+	translation -0.19999999999999918 1.2639999999999998 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall34"
+}
+LegoWall {
+	translation 0.3600000000000008 1.2639999999999998 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall35"
+}
+LegoInterval {
+	translation -1.432 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval35"
+}
+LegoInterval {
+	translation -1.3199999999999998 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval36"
+}
+LegoInterval {
+	translation -1.2079999999999997 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval37"
+}
+LegoInterval {
+	translation -1.0959999999999996 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval38"
+}
+LegoWall {
+	translation -1.0399999999999996 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall36"
+}
+LegoInterval {
+	translation -0.9839999999999995 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval39"
+}
+LegoWall {
+	translation -0.9279999999999995 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall37"
+}
+LegoInterval {
+	translation -0.8719999999999994 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval40"
+}
+LegoWall {
+	translation -0.8159999999999994 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall38"
+}
+LegoInterval {
+	translation -0.7599999999999993 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval41"
+}
+LegoWall {
+	translation -0.7039999999999993 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall39"
+}
+LegoInterval {
+	translation -0.6479999999999992 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval42"
+}
+LegoWall {
+	translation -0.5919999999999992 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall40"
+}
+LegoInterval {
+	translation -0.5359999999999991 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval43"
+}
+LegoWall {
+	translation -0.47999999999999915 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall41"
+}
+LegoInterval {
+	translation -0.42399999999999916 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval44"
+}
+LegoWall {
+	translation -0.36799999999999916 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall42"
+}
+LegoInterval {
+	translation -0.31199999999999917 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval45"
+}
+LegoInterval {
+	translation -0.19999999999999918 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval46"
+}
+LegoWall {
+	translation -0.14399999999999918 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall43"
+}
+LegoInterval {
+	translation -0.08799999999999919 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval47"
+}
+LegoWall {
+	translation -0.03199999999999919 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall44"
+}
+LegoInterval {
+	translation 0.024000000000000812 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval48"
+}
+LegoWall {
+	translation 0.08000000000000082 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall45"
+}
+LegoInterval {
+	translation 0.13600000000000081 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval49"
+}
+LegoInterval {
+	translation 0.2480000000000008 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval50"
+}
+LegoInterval {
+	translation 0.3600000000000008 1.2079999999999997 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval51"
+}
+LegoWall {
+	translation -1.432 1.1519999999999997 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall46"
+}
+LegoWall {
+	translation -1.3199999999999998 1.1519999999999997 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall47"
+}
+LegoWall {
+	translation -1.2079999999999997 1.1519999999999997 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall48"
+}
+LegoWall {
+	translation 0.13600000000000081 1.1519999999999997 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall49"
+}
+LegoWall {
+	translation 0.2480000000000008 1.1519999999999997 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall50"
+}
+LegoWall {
+	translation 0.3600000000000008 1.1519999999999997 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall51"
+}
+LegoInterval {
+	translation -1.432 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval52"
+}
+LegoInterval {
+	translation -1.3199999999999998 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval53"
+}
+LegoInterval {
+	translation -1.2079999999999997 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval54"
+}
+LegoInterval {
+	translation -1.0959999999999996 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval55"
+}
+LegoWall {
+	translation -1.0399999999999996 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall52"
+}
+LegoInterval {
+	translation -0.9839999999999995 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval56"
+}
+LegoWall {
+	translation -0.9279999999999995 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall53"
+}
+LegoInterval {
+	translation -0.8719999999999994 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval57"
+}
+LegoWall {
+	translation -0.8159999999999994 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall54"
+}
+LegoInterval {
+	translation -0.7599999999999993 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval58"
+}
+LegoWall {
+	translation -0.7039999999999993 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall55"
+}
+LegoInterval {
+	translation -0.6479999999999992 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval59"
+}
+LegoWall {
+	translation -0.5919999999999992 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall56"
+}
+LegoInterval {
+	translation -0.5359999999999991 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval60"
+}
+LegoWall {
+	translation -0.47999999999999915 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall57"
+}
+LegoInterval {
+	translation -0.42399999999999916 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval61"
+}
+LegoWall {
+	translation -0.36799999999999916 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall58"
+}
+LegoInterval {
+	translation -0.31199999999999917 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval62"
+}
+LegoWall {
+	translation -0.2559999999999992 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall59"
+}
+LegoInterval {
+	translation -0.19999999999999918 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval63"
+}
+LegoWall {
+	translation -0.14399999999999918 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall60"
+}
+LegoInterval {
+	translation -0.08799999999999919 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval64"
+}
+LegoWall {
+	translation -0.03199999999999919 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall61"
+}
+LegoInterval {
+	translation 0.024000000000000812 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval65"
+}
+LegoInterval {
+	translation 0.13600000000000081 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval66"
+}
+LegoInterval {
+	translation 0.2480000000000008 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval67"
+}
+LegoInterval {
+	translation 0.3600000000000008 1.0959999999999996 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval68"
+}
+LegoWall {
+	translation -1.432 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall62"
+}
+LegoWall {
+	translation -1.3199999999999998 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall63"
+}
+LegoWall {
+	translation -1.2079999999999997 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall64"
+}
+LegoWall {
+	translation -0.9839999999999995 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall65"
+}
+LegoWall {
+	translation -0.8719999999999994 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall66"
+}
+LegoWall {
+	translation 0.024000000000000812 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall67"
+}
+LegoWall {
+	translation 0.13600000000000081 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall68"
+}
+LegoWall {
+	translation 0.2480000000000008 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall69"
+}
+LegoWall {
+	translation 0.3600000000000008 1.0399999999999996 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall70"
+}
+LegoInterval {
+	translation -1.432 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval69"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval70"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval71"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval72"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval73"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval74"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval75"
+}
+LegoWall {
+	translation -0.7039999999999993 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall71"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval76"
+}
+LegoWall {
+	translation -0.5919999999999992 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall72"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval77"
+}
+LegoWall {
+	translation -0.47999999999999915 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall73"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval78"
+}
+LegoWall {
+	translation -0.36799999999999916 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall74"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval79"
+}
+LegoWall {
+	translation -0.2559999999999992 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall75"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval80"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval81"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval82"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval83"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval84"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.9839999999999995 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval85"
+}
+LegoWall {
+	translation -1.432 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall76"
+}
+LegoWall {
+	translation -1.3199999999999998 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall77"
+}
+LegoWall {
+	translation -1.2079999999999997 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall78"
+}
+LegoWall {
+	translation -1.0959999999999996 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall79"
+}
+LegoWall {
+	translation -0.9839999999999995 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall80"
+}
+LegoWall {
+	translation -0.8719999999999994 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall81"
+}
+LegoWall {
+	translation -0.7599999999999993 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall82"
+}
+LegoWall {
+	translation -0.19999999999999918 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall83"
+}
+LegoWall {
+	translation -0.08799999999999919 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall84"
+}
+LegoWall {
+	translation 0.024000000000000812 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall85"
+}
+LegoWall {
+	translation 0.13600000000000081 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall86"
+}
+LegoWall {
+	translation 0.3600000000000008 0.9279999999999995 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall87"
+}
+LegoInterval {
+	translation -1.432 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval86"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval87"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval88"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval89"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval90"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval91"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval92"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval93"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval94"
+}
+LegoWall {
+	translation -0.47999999999999915 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall88"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval95"
+}
+LegoWall {
+	translation -0.36799999999999916 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall89"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval96"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval97"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval98"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval99"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval100"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval101"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.8719999999999994 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval102"
+}
+LegoWall {
+	translation -1.432 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall90"
+}
+LegoWall {
+	translation -1.2079999999999997 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall91"
+}
+LegoWall {
+	translation -0.8719999999999994 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall92"
+}
+LegoWall {
+	translation -0.7599999999999993 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall93"
+}
+LegoWall {
+	translation -0.6479999999999992 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall94"
+}
+LegoWall {
+	translation 0.024000000000000812 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall95"
+}
+LegoWall {
+	translation 0.2480000000000008 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall96"
+}
+LegoWall {
+	translation 0.3600000000000008 0.8159999999999994 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall97"
+}
+LegoInterval {
+	translation -1.432 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval103"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval104"
+}
+LegoWall {
+	translation -1.2639999999999998 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall98"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval105"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval106"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval107"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval108"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval109"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval110"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval111"
+}
+LegoWall {
+	translation -0.47999999999999915 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall99"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval112"
+}
+LegoWall {
+	translation -0.36799999999999916 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall100"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval113"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval114"
+}
+LegoWall {
+	translation -0.14399999999999918 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall101"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval115"
+}
+LegoWall {
+	translation -0.03199999999999919 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall102"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval116"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval117"
+}
+LegoWall {
+	translation 0.1920000000000008 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall103"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval118"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.7599999999999993 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval119"
+}
+LegoWall {
+	translation -1.432 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall104"
+}
+LegoWall {
+	translation -1.3199999999999998 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall105"
+}
+LegoWall {
+	translation -1.2079999999999997 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall106"
+}
+LegoWall {
+	translation -1.0959999999999996 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall107"
+}
+LegoWall {
+	translation -0.9839999999999995 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall108"
+}
+LegoWall {
+	translation -0.8719999999999994 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall109"
+}
+LegoWall {
+	translation -0.7599999999999993 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall110"
+}
+LegoWall {
+	translation -0.6479999999999992 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall111"
+}
+LegoWall {
+	translation -0.19999999999999918 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall112"
+}
+LegoWall {
+	translation 0.13600000000000081 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall113"
+}
+LegoWall {
+	translation 0.2480000000000008 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall114"
+}
+LegoWall {
+	translation 0.3600000000000008 0.7039999999999993 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall115"
+}
+LegoInterval {
+	translation -1.432 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval120"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval121"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval122"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval123"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval124"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval125"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval126"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval127"
+}
+LegoWall {
+	translation -0.5919999999999992 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall116"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval128"
+}
+LegoWall {
+	translation -0.47999999999999915 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall117"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval129"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval130"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval131"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval132"
+}
+LegoWall {
+	translation -0.03199999999999919 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall118"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval133"
+}
+LegoWall {
+	translation 0.08000000000000082 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall119"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval134"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval135"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.6479999999999992 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval136"
+}
+LegoWall {
+	translation -1.432 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall120"
+}
+LegoWall {
+	translation -1.3199999999999998 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall121"
+}
+LegoWall {
+	translation -1.2079999999999997 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall122"
+}
+LegoWall {
+	translation -1.0959999999999996 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall123"
+}
+LegoWall {
+	translation -0.9839999999999995 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall124"
+}
+LegoWall {
+	translation -0.8719999999999994 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall125"
+}
+LegoWall {
+	translation -0.7599999999999993 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall126"
+}
+LegoWall {
+	translation -0.6479999999999992 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall127"
+}
+LegoWall {
+	translation -0.42399999999999916 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall128"
+}
+LegoWall {
+	translation -0.31199999999999917 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall129"
+}
+LegoWall {
+	translation -0.19999999999999918 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall130"
+}
+LegoWall {
+	translation 0.024000000000000812 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall131"
+}
+LegoWall {
+	translation 0.13600000000000081 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall132"
+}
+LegoWall {
+	translation 0.2480000000000008 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall133"
+}
+LegoWall {
+	translation 0.3600000000000008 0.5919999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall134"
+}
+LegoInterval {
+	translation -1.432 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval137"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval138"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval139"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval140"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval141"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval142"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval143"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval144"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval145"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval146"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval147"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval148"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval149"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval150"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval151"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval152"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.5359999999999991 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval153"
+}
+LegoWall {
+	translation -1.432 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall135"
+}
+LegoWall {
+	translation -1.3199999999999998 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall136"
+}
+LegoWall {
+	translation -1.2079999999999997 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall137"
+}
+LegoWall {
+	translation -0.7599999999999993 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall138"
+}
+LegoWall {
+	translation -0.6479999999999992 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall139"
+}
+LegoWall {
+	translation -0.42399999999999916 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall140"
+}
+LegoWall {
+	translation -0.19999999999999918 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall141"
+}
+LegoWall {
+	translation -0.08799999999999919 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall142"
+}
+LegoWall {
+	translation 0.13600000000000081 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall143"
+}
+LegoWall {
+	translation 0.2480000000000008 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall144"
+}
+LegoWall {
+	translation 0.3600000000000008 0.47999999999999915 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall145"
+}
+LegoInterval {
+	translation -1.432 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval154"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval155"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval156"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval157"
+}
+LegoWall {
+	translation -1.0399999999999996 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall146"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval158"
+}
+LegoWall {
+	translation -0.9279999999999995 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall147"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval159"
+}
+LegoWall {
+	translation -0.8159999999999994 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall148"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval160"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval161"
+}
+LegoWall {
+	translation -0.5919999999999992 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall149"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval162"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval163"
+}
+LegoWall {
+	translation -0.36799999999999916 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall150"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval164"
+}
+LegoWall {
+	translation -0.2559999999999992 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall151"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval165"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval166"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval167"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval168"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval169"
+}
+LegoWall {
+	translation 0.3040000000000008 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall152"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.42399999999999916 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval170"
+}
+LegoWall {
+	translation -1.432 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall153"
+}
+LegoWall {
+	translation -1.3199999999999998 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall154"
+}
+LegoWall {
+	translation -1.2079999999999997 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall155"
+}
+LegoWall {
+	translation -1.0959999999999996 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall156"
+}
+LegoWall {
+	translation -0.7599999999999993 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall157"
+}
+LegoWall {
+	translation -0.19999999999999918 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall158"
+}
+LegoWall {
+	translation -0.08799999999999919 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall159"
+}
+LegoWall {
+	translation 0.024000000000000812 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall160"
+}
+LegoWall {
+	translation 0.2480000000000008 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall161"
+}
+LegoWall {
+	translation 0.3600000000000008 0.36799999999999916 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall162"
+}
+LegoInterval {
+	translation -1.432 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval171"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval172"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval173"
+}
+LegoWall {
+	translation -1.1519999999999997 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall163"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval174"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval175"
+}
+LegoWall {
+	translation -0.9279999999999995 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall164"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval176"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval177"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval178"
+}
+LegoWall {
+	translation -0.5919999999999992 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall165"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval179"
+}
+LegoWall {
+	translation -0.47999999999999915 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall166"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval180"
+}
+LegoWall {
+	translation -0.36799999999999916 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall167"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval181"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval182"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval183"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval184"
+}
+LegoWall {
+	translation 0.08000000000000082 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall168"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval185"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval186"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.31199999999999917 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval187"
+}
+LegoWall {
+	translation -1.432 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall169"
+}
+LegoWall {
+	translation -1.3199999999999998 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall170"
+}
+LegoWall {
+	translation -1.2079999999999997 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall171"
+}
+LegoWall {
+	translation -1.0959999999999996 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall172"
+}
+LegoWall {
+	translation -0.9839999999999995 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall173"
+}
+LegoWall {
+	translation -0.7599999999999993 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall174"
+}
+LegoWall {
+	translation -0.19999999999999918 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall175"
+}
+LegoWall {
+	translation 0.13600000000000081 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall176"
+}
+LegoWall {
+	translation 0.3600000000000008 0.2559999999999992 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall177"
+}
+LegoInterval {
+	translation -1.432 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval188"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval189"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval190"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval191"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval192"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval193"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval194"
+}
+LegoWall {
+	translation -0.7039999999999993 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall178"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval195"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval196"
+}
+LegoWall {
+	translation -0.47999999999999915 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall179"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval197"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval198"
+}
+LegoWall {
+	translation -0.2559999999999992 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall180"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval199"
+}
+LegoWall {
+	translation -0.14399999999999918 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall181"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval200"
+}
+LegoWall {
+	translation -0.03199999999999919 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall182"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval201"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval202"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval203"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.19999999999999918 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval204"
+}
+LegoWall {
+	translation -1.432 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall183"
+}
+LegoWall {
+	translation -1.3199999999999998 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall184"
+}
+LegoWall {
+	translation -1.0959999999999996 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall185"
+}
+LegoWall {
+	translation -0.8719999999999994 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall186"
+}
+LegoWall {
+	translation -0.7599999999999993 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall187"
+}
+LegoWall {
+	translation -0.31199999999999917 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall188"
+}
+LegoWall {
+	translation 0.2480000000000008 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall189"
+}
+LegoWall {
+	translation 0.3600000000000008 0.14399999999999918 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall190"
+}
+LegoInterval {
+	translation -1.432 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval205"
+}
+LegoInterval {
+	translation -1.3199999999999998 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval206"
+}
+LegoInterval {
+	translation -1.2079999999999997 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval207"
+}
+LegoInterval {
+	translation -1.0959999999999996 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval208"
+}
+LegoInterval {
+	translation -0.9839999999999995 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval209"
+}
+LegoWall {
+	translation -0.9279999999999995 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall191"
+}
+LegoInterval {
+	translation -0.8719999999999994 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval210"
+}
+LegoInterval {
+	translation -0.7599999999999993 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval211"
+}
+LegoWall {
+	translation -0.7039999999999993 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall192"
+}
+LegoInterval {
+	translation -0.6479999999999992 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval212"
+}
+LegoWall {
+	translation -0.5919999999999992 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall193"
+}
+LegoInterval {
+	translation -0.5359999999999991 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval213"
+}
+LegoInterval {
+	translation -0.42399999999999916 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval214"
+}
+LegoWall {
+	translation -0.36799999999999916 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall194"
+}
+LegoInterval {
+	translation -0.31199999999999917 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval215"
+}
+LegoInterval {
+	translation -0.19999999999999918 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval216"
+}
+LegoWall {
+	translation -0.14399999999999918 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall195"
+}
+LegoInterval {
+	translation -0.08799999999999919 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval217"
+}
+LegoWall {
+	translation -0.03199999999999919 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall196"
+}
+LegoInterval {
+	translation 0.024000000000000812 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval218"
+}
+LegoWall {
+	translation 0.08000000000000082 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall197"
+}
+LegoInterval {
+	translation 0.13600000000000081 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval219"
+}
+LegoWall {
+	translation 0.1920000000000008 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall198"
+}
+LegoInterval {
+	translation 0.2480000000000008 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval220"
+}
+LegoInterval {
+	translation 0.3600000000000008 0.08799999999999919 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval221"
+}
+LegoWall {
+	translation -1.432 0.03199999999999919 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall199"
+}
+LegoWall {
+	translation -1.2079999999999997 0.03199999999999919 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall200"
+}
+LegoWall {
+	translation -0.9839999999999995 0.03199999999999919 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall201"
+}
+LegoWall {
+	translation -0.7599999999999993 0.03199999999999919 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall202"
+}
+LegoWall {
+	translation -0.42399999999999916 0.03199999999999919 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall203"
+}
+LegoWall {
+	translation 0.2480000000000008 0.03199999999999919 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall204"
+}
+LegoWall {
+	translation 0.3600000000000008 0.03199999999999919 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall205"
+}
+LegoInterval {
+	translation -1.432 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval222"
+}
+LegoWall {
+	translation -1.376 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall206"
+}
+LegoInterval {
+	translation -1.3199999999999998 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval223"
+}
+LegoWall {
+	translation -1.2639999999999998 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall207"
+}
+LegoInterval {
+	translation -1.2079999999999997 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval224"
+}
+LegoWall {
+	translation -1.1519999999999997 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall208"
+}
+LegoInterval {
+	translation -1.0959999999999996 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval225"
+}
+LegoWall {
+	translation -1.0399999999999996 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall209"
+}
+LegoInterval {
+	translation -0.9839999999999995 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval226"
+}
+LegoInterval {
+	translation -0.8719999999999994 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval227"
+}
+LegoWall {
+	translation -0.8159999999999994 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall210"
+}
+LegoInterval {
+	translation -0.7599999999999993 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval228"
+}
+LegoWall {
+	translation -0.7039999999999993 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall211"
+}
+LegoInterval {
+	translation -0.6479999999999992 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval229"
+}
+LegoInterval {
+	translation -0.5359999999999991 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval230"
+}
+LegoWall {
+	translation -0.47999999999999915 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall212"
+}
+LegoInterval {
+	translation -0.42399999999999916 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval231"
+}
+LegoWall {
+	translation -0.36799999999999916 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall213"
+}
+LegoInterval {
+	translation -0.31199999999999917 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval232"
+}
+LegoWall {
+	translation -0.2559999999999992 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall214"
+}
+LegoInterval {
+	translation -0.19999999999999918 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval233"
+}
+LegoWall {
+	translation -0.14399999999999918 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall215"
+}
+LegoInterval {
+	translation -0.08799999999999919 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval234"
+}
+LegoWall {
+	translation -0.03199999999999919 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall216"
+}
+LegoInterval {
+	translation 0.024000000000000812 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval235"
+}
+LegoInterval {
+	translation 0.13600000000000081 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval236"
+}
+LegoWall {
+	translation 0.1920000000000008 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall217"
+}
+LegoInterval {
+	translation 0.2480000000000008 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval237"
+}
+LegoInterval {
+	translation 0.3600000000000008 -0.024000000000000812 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval238"
+}
+LegoWall {
+	translation -1.432 -0.08000000000000082 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall218"
+}
+LegoWall {
+	translation -0.7599999999999993 -0.08000000000000082 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall219"
+}
+LegoWall {
+	translation -0.08799999999999919 -0.08000000000000082 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall220"
+}
+LegoWall {
+	translation 0.3600000000000008 -0.08000000000000082 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall221"
+}
+LegoInterval {
+	translation -1.432 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval239"
+}
+LegoInterval {
+	translation -1.3199999999999998 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval240"
+}
+LegoWall {
+	translation -1.2639999999999998 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall222"
+}
+LegoInterval {
+	translation -1.2079999999999997 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval241"
+}
+LegoWall {
+	translation -1.1519999999999997 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall223"
+}
+LegoInterval {
+	translation -1.0959999999999996 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval242"
+}
+LegoInterval {
+	translation -0.9839999999999995 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval243"
+}
+LegoWall {
+	translation -0.9279999999999995 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall224"
+}
+LegoInterval {
+	translation -0.8719999999999994 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval244"
+}
+LegoInterval {
+	translation -0.7599999999999993 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval245"
+}
+LegoWall {
+	translation -0.7039999999999993 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall225"
+}
+LegoInterval {
+	translation -0.6479999999999992 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval246"
+}
+LegoWall {
+	translation -0.5919999999999992 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall226"
+}
+LegoInterval {
+	translation -0.5359999999999991 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval247"
+}
+LegoInterval {
+	translation -0.42399999999999916 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval248"
+}
+LegoWall {
+	translation -0.36799999999999916 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall227"
+}
+LegoInterval {
+	translation -0.31199999999999917 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval249"
+}
+LegoWall {
+	translation -0.2559999999999992 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall228"
+}
+LegoInterval {
+	translation -0.19999999999999918 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval250"
+}
+LegoInterval {
+	translation -0.08799999999999919 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval251"
+}
+LegoWall {
+	translation -0.03199999999999919 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall229"
+}
+LegoInterval {
+	translation 0.024000000000000812 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval252"
+}
+LegoWall {
+	translation 0.08000000000000082 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall230"
+}
+LegoInterval {
+	translation 0.13600000000000081 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval253"
+}
+LegoInterval {
+	translation 0.2480000000000008 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval254"
+}
+LegoInterval {
+	translation 0.3600000000000008 -0.13600000000000081 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval255"
+}
+LegoWall {
+	translation -1.432 -0.1920000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall231"
+}
+LegoWall {
+	translation -1.3199999999999998 -0.1920000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall232"
+}
+LegoWall {
+	translation -0.5359999999999991 -0.1920000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall233"
+}
+LegoWall {
+	translation 0.2480000000000008 -0.1920000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall234"
+}
+LegoWall {
+	translation 0.3600000000000008 -0.1920000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall235"
+}
+LegoInterval {
+	translation -1.432 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval256"
+}
+LegoInterval {
+	translation -1.3199999999999998 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval257"
+}
+LegoInterval {
+	translation -1.2079999999999997 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval258"
+}
+LegoWall {
+	translation -1.1519999999999997 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall236"
+}
+LegoInterval {
+	translation -1.0959999999999996 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval259"
+}
+LegoWall {
+	translation -1.0399999999999996 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall237"
+}
+LegoInterval {
+	translation -0.9839999999999995 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval260"
+}
+LegoWall {
+	translation -0.9279999999999995 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall238"
+}
+LegoInterval {
+	translation -0.8719999999999994 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval261"
+}
+LegoWall {
+	translation -0.8159999999999994 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall239"
+}
+LegoInterval {
+	translation -0.7599999999999993 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval262"
+}
+LegoWall {
+	translation -0.7039999999999993 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall240"
+}
+LegoInterval {
+	translation -0.6479999999999992 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval263"
+}
+LegoInterval {
+	translation -0.5359999999999991 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval264"
+}
+LegoInterval {
+	translation -0.42399999999999916 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval265"
+}
+LegoWall {
+	translation -0.36799999999999916 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall241"
+}
+LegoInterval {
+	translation -0.31199999999999917 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval266"
+}
+LegoWall {
+	translation -0.2559999999999992 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall242"
+}
+LegoInterval {
+	translation -0.19999999999999918 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval267"
+}
+LegoWall {
+	translation -0.14399999999999918 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall243"
+}
+LegoInterval {
+	translation -0.08799999999999919 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval268"
+}
+LegoWall {
+	translation -0.03199999999999919 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall244"
+}
+LegoInterval {
+	translation 0.024000000000000812 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval269"
+}
+LegoWall {
+	translation 0.08000000000000082 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall245"
+}
+LegoInterval {
+	translation 0.13600000000000081 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval270"
+}
+LegoWall {
+	translation 0.1920000000000008 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall246"
+}
+LegoInterval {
+	translation 0.2480000000000008 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval271"
+}
+LegoInterval {
+	translation 0.3600000000000008 -0.2480000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval272"
+}
+LegoWall {
+	translation -1.432 -0.3040000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall247"
+}
+LegoWall {
+	translation -1.3199999999999998 -0.3040000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall248"
+}
+LegoWall {
+	translation -0.5359999999999991 -0.3040000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall249"
+}
+LegoWall {
+	translation 0.3600000000000008 -0.3040000000000008 0.02
+	rotation 1.69525e-09 0.707107 0.707107 3.14159
+	name "LegoWall250"
+}
+LegoInterval {
+	translation -1.432 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval273"
+}
+LegoWall {
+	translation -1.376 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall251"
+}
+LegoInterval {
+	translation -1.3199999999999998 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval274"
+}
+LegoWall {
+	translation -1.2639999999999998 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall252"
+}
+LegoInterval {
+	translation -1.2079999999999997 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval275"
+}
+LegoWall {
+	translation -1.1519999999999997 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall253"
+}
+LegoInterval {
+	translation -1.0959999999999996 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval276"
+}
+LegoWall {
+	translation -1.0399999999999996 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall254"
+}
+LegoInterval {
+	translation -0.9839999999999995 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval277"
+}
+LegoWall {
+	translation -0.9279999999999995 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall255"
+}
+LegoInterval {
+	translation -0.8719999999999994 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval278"
+}
+LegoWall {
+	translation -0.8159999999999994 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall256"
+}
+LegoInterval {
+	translation -0.7599999999999993 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval279"
+}
+LegoWall {
+	translation -0.7039999999999993 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall257"
+}
+LegoInterval {
+	translation -0.6479999999999992 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval280"
+}
+LegoWall {
+	translation -0.5919999999999992 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall258"
+}
+LegoInterval {
+	translation -0.5359999999999991 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval281"
+}
+LegoWall {
+	translation -0.47999999999999915 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall259"
+}
+LegoInterval {
+	translation -0.42399999999999916 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval282"
+}
+LegoWall {
+	translation -0.36799999999999916 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall260"
+}
+LegoInterval {
+	translation -0.31199999999999917 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval283"
+}
+LegoWall {
+	translation -0.2559999999999992 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall261"
+}
+LegoInterval {
+	translation -0.19999999999999918 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval284"
+}
+LegoWall {
+	translation -0.14399999999999918 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall262"
+}
+LegoInterval {
+	translation -0.08799999999999919 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval285"
+}
+LegoWall {
+	translation -0.03199999999999919 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall263"
+}
+LegoInterval {
+	translation 0.024000000000000812 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval286"
+}
+LegoWall {
+	translation 0.08000000000000082 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall264"
+}
+LegoInterval {
+	translation 0.13600000000000081 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval287"
+}
+LegoWall {
+	translation 0.1920000000000008 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall265"
+}
+LegoInterval {
+	translation 0.2480000000000008 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval288"
+}
+LegoWall {
+	translation 0.3040000000000008 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoWall266"
+}
+LegoInterval {
+	translation 0.3600000000000008 -0.3600000000000008 0.02
+	rotation -0.577351 -0.57735 -0.57735 -2.09439
+	name "LegoInterval289"
+}
